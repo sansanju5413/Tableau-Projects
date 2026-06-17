@@ -1,45 +1,45 @@
-# 📉 Tableau Projects
+# 📊 Hotel Booking Analytics Dashboard
 
-Welcome to my Tableau Projects repository.
+## Project Overview
 
-This repository contains data visualization and storytelling projects created using Tableau.
-
-## Skills Demonstrated
-
-* Data Visualization
-* Dashboard Design
-* Storytelling with Data
-* Interactive Reports
-* KPI Monitoring
-* Business Insights
-
-## Projects
-
-### Customer Segmentation Analysis
-
-* Customer behavior analysis
-* Segmentation dashboard
-
-### Sales Insights Dashboard
-
-* Revenue tracking
-* Product performance
-* Market analysis
-
-### Business Performance Dashboard
-
-* KPI monitoring
-* Trend analysis
-* Executive reporting
+This Tableau dashboard analyzes hotel booking data to uncover booking trends, cancellation patterns, customer behavior, and revenue insights.
 
 ## Tools Used
 
-* Tableau Desktop
-* Tableau Public
-* Data Visualization Techniques
+* Tableau
+* Data Visualization
+* Dashboard Design
+* Data Analytics
 
-## Author
+## Dashboard Features
 
-Sanju H S
+* Total Bookings KPI
+* Total Cancellations KPI
+* Cancellation Rate KPI
+* Average Daily Revenue (ADR)
+* Monthly Booking Trends
+* Booking Status Analysis
+* Country-wise Booking Distribution
+* Top 10 Countries by Bookings
+* Meal Preference Analysis
+* Interactive Filters
 
-Aspiring Data Analyst
+## Key Insights
+
+* August recorded the highest number of bookings (2,604).
+* Portugal (PRT) generated the highest number of bookings (9,282).
+* Cancellation rate was 44.84%.
+* BB meal plan was the most preferred option with 13,983 bookings.
+* Confirmed bookings exceeded cancelled bookings.
+
+## Skills Demonstrated
+
+* Dashboard Design
+* KPI Development
+* Interactive Filtering
+* Data Storytelling
+* Business Intelligence
+
+## Dashboard Preview
+
+See dashboard_overview.png
