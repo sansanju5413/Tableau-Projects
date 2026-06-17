@@ -42,4 +42,5 @@ This Tableau dashboard analyzes hotel booking data to uncover booking trends, ca
 
 ## Dashboard Preview
 
-See dashboard_overview.png
+See [dashboard_overview.png
+](https://github.com/sansanju5413/Tableau-Projects/blob/main/dashboard_overview.png)
